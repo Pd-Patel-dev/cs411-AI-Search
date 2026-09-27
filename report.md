@@ -41,8 +41,8 @@
 
 ## Section 4: Deployed and Presentation Information
 - **Deployment Platform:** Render
-- **Live Deployment URL:** [Provide your live deployment site URL here]
-- **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
+- **Live Deployment URL:** https://cs411-ai-search.onrender.com/
+- **Video Presentation Link:** https://drive.google.com/file/d/1h977_8lfQPth8TMayYM1lkLiIz-fyESy/view?usp=sharing
 
 ---
 
